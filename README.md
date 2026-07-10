@@ -1,22 +1,11 @@
-```                                  
-                lYOd#qmZmw<              
-              x@$$$$$$$$@$$O             
-             (W@$$$$$$$@@$$$0            
-             ~$$$$@$$$@B$$$$M            
-             '$o@M$$&#B@8@$B^            
-              qLBh$f     8YC.            
-              l+" 0      ,[:             
-                C       '[               
-                 O}   IQ!                
-                  + ~, ~                 
-                 X`     p`               
-              (/          .)}"           
-           [;                 .\         
-          }                    "i        
-         ;' <xcurrnvvvcvcvr|]>!I         
-         ;                                                                                                                     
 ```
-
+╭────────────────────────────────────╮  
+│  > whoami                          │    
+│                                    │  
+│  Rizq Khairulnizam                 │  
+│  Cybersecurity Enthusiast          │  
+╰────────────────────────────────────╯
+```
 <!--
 **rizqkhairulnizam/rizqkhairulnizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
