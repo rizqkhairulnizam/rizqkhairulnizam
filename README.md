@@ -3,8 +3,7 @@
 │ $ whoami                                                                         │
 ├──────────────────────────────────────────────────────────────────────────────────┤
 │ Name       :: Rizq Khairulnizam                                                  │
-│ Role       :: Cybersecurity Graduate                                             │
-│ Status     :: Learning something new every day                                   │
+│ Status     :: Cybersecurity Enthusiast                                           │
 ├──────────────────────────────────────────────────────────────────────────────────┤
 │ $ sysinfo                                                                        │
 ├──────────────────────────────────────────────────────────────────────────────────┤
@@ -18,10 +17,10 @@
 ├──────────────────────────────────────────────────────────────────────────────────┤
 │ $ cat toolbox.txt                                                                │
 ├──────────────────────────────────────────────────────────────────────────────────┤
-│ Technical.....Linux, Bash, R, SQL, Splunk SPL, AWS, Docker, Nginx                │
-│ Tools.........Splunk SIEM, Elastic SIEM, Imperva WAF, OpenCTI, UFW, Fail2Ban,    │
-│                Grafana, Prometheus, Loki, Promtail                               │
-│ Languages.....Malay, English, Japanese                                           │
+│ Technical....................Linux, Bash, R, SQL, Splunk SPL, AWS, Docker, Nginx │
+│ Tools............Splunk SIEM, Elastic SIEM, Imperva WAF, OpenCTI, UFW, Fail2Ban  │
+│                  Grafana, Prometheus, Loki, Promtail                             │
+│ Languages...............................................Malay, English, Japanese │
 ├──────────────────────────────────────────────────────────────────────────────────┤
 │ $ ls interests/                                                                  │
 ├──────────────────────────────────────────────────────────────────────────────────┤
