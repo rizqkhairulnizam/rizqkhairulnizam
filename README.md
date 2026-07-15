@@ -1,53 +1,35 @@
 ```
-╭──────────────────────────────────────────────────────────────╮
-│ $ whoami                                                     │
-├──────────────────────────────────────────────────────────────┤
-│ Name       :: Muhammad Khairulnizam                          │
-│ Role       :: Cybersecurity Graduate                         │
-│ Focus      :: SOC | Threat Hunting | DFIR | Malware Analysis │
-│ Location   :: Malaysia 🇲🇾                                    │
-│ Status     :: Learning something new every day               │
-├──────────────────────────────────────────────────────────────┤
-│ $ sysinfo                                                    │
-├──────────────────────────────────────────────────────────────┤
-│ Uptime     :: 23 years                                       │
-│ Experience :: SOC Operations                                 │
-│               SIEM Engineering                               │
-│               Log Analysis                                   │
-│               Threat Intelligence                            │
-│               Vulnerability Assessment                       │
-│               Incident Response                              │
-├──────────────────────────────────────────────────────────────┤
-│ $ ls interests/                                              │
-├──────────────────────────────────────────────────────────────┤
-│ > Blue Teaming                                               │
-│ > Malware Analysis                                           │
-│ > Reverse Engineering                                        │
-│ > Digital Forensics                                          │
-│ > AI for Cybersecurity                                       │
-│ > Capture The Flag (CTFs)                                    │
-├──────────────────────────────────────────────────────────────┤
-│ $ ls toolbox/                                                │
-├──────────────────────────────────────────────────────────────┤
-│ Languages  :: Python | Bash | Java | SQL | R                 │
-│ Platforms  :: Linux | Windows                                │
-│ Tools      :: Splunk | Wireshark | Burp Suite | Git          │
-│              Nmap | Security Onion | Docker                  │
-├──────────────────────────────────────────────────────────────┤
-│ $ ls achievements/                                           │
-├──────────────────────────────────────────────────────────────┤
-│ • B.S. Cybersecurity Analytics & Operations                  │
-│ • Penn State University                                      │
-│ • CompTIA Network+                                           │
-│ • ISC2 Certified in Cybersecurity (CC)                       │
-│ • JURUS Level 1 – ANALYST                                    │
-├──────────────────────────────────────────────────────────────┤
-│ $ cat status.txt                                             │
-├──────────────────────────────────────────────────────────────┤
-│ > Building projects                                          │
-│ > Studying AI & Cybersecurity                                │
-│ > Looking for cybersecurity opportunities                    │
-╰──────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────────────────╮
+│ $ whoami                                                                         │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ Name       :: Rizq Khairulnizam                                                  │
+│ Role       :: Cybersecurity Graduate                                             │
+│ Status     :: Learning something new every day                                   │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ $ sysinfo                                                                        │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ Uptime     :: 23 years                                                           │
+│ Experience :: SOC Operations                                                     │
+│               SIEM Engineering                                                   │
+│               Log Analysis                                                       │
+│               Threat Intelligence                                                │
+│               Vulnerability Assessment                                           │
+│               Incident Response                                                  │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ $ cat toolbox.txt                                                                │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ Technical.....Linux, Bash, R, SQL, Splunk SPL, AWS, Docker, Nginx                |
+│ Tools.........Splunk SIEM, Elastic SIEM, Imperva WAF, OpenCTI, UFW, Fail2Ban,    |
+│                Grafana, Prometheus, Loki, Promtail                               |
+│ Languages.....Malay, English, Japanese                                           │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ $ ls interests/                                                                  │
+├──────────────────────────────────────────────────────────────────────────────────┤
+│ Purple_Teaming.vbs                                                               │
+│ Threat_Intelligence.py                                                           |
+| Monitoring_Operations.exe                                                        |
+| Cyber_Engineering.tar.gz                                                         |
+╰──────────────────────────────────────────────────────────────────────────────────╯
 ```
 <!--
 **rizqkhairulnizam/rizqkhairulnizam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
