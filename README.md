@@ -1,12 +1,9 @@
 ```
-╭──────────────────────────────────────────────────────────────────────────────────╮
-│ $ whoami                                                                         │
-├──────────────────────────────────────────────────────────────────────────────────┤
+╭─ $ whoami ───────────────────────────────────────────────────────────────────────╮
 │ Name       :: Rizq Khairulnizam                                                  │
-│ Status     :: Cybersecurity Enthusiast                                           │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│ $ sysinfo                                                                        │
-├──────────────────────────────────────────────────────────────────────────────────┤
+│ Role       :: Cybersecurity Graduate (Junior)                                    │
+│                                                                                  │
+├─ $ sysinfo ──────────────────────────────────────────────────────────────────────┤
 │ Uptime     :: 23 years                                                           │
 │ Experience :: SOC Operations                                                     │
 │               SIEM Engineering                                                   │
@@ -14,20 +11,19 @@
 │               Threat Intelligence                                                │
 │               Vulnerability Assessment                                           │
 │               Incident Response                                                  │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│ $ cat toolbox.txt                                                                │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│ Technical....................Linux, Bash, R, SQL, Splunk SPL, AWS, Docker, Nginx │
-│ Tools............Splunk SIEM, Elastic SIEM, Imperva WAF, OpenCTI, UFW, Fail2Ban  │
+│                                                                                  │
+├─ $ cat toolbox.txt ──────────────────────────────────────────────────────────────┤
+│ Technical :................. Linux, Bash, R, SQL, Splunk SPL, AWS, Docker, Nginx │
+│ Tools     :..... Splunk SIEM, Elastic SIEM, Imperva WAF, OpenCTI, UFW, Fail2Ban  │
 │                  Grafana, Prometheus, Loki, Promtail                             │
-│ Languages...............................................Malay, English, Japanese │
-├──────────────────────────────────────────────────────────────────────────────────┤
-│ $ ls interests/                                                                  │
-├──────────────────────────────────────────────────────────────────────────────────┤
+│ Languages :............................................ Malay, English, Japanese │
+│                                                                                  │
+├─ $ ls interests/ ────────────────────────────────────────────────────────────────┤
 │ Purple_Teaming.vbs                                                               │
 │ Threat_Intelligence.py                                                           │
 | Monitoring_Operations.exe                                                        │
 | Cyber_Engineering.tar.gz                                                         │
+│                                                                                  │
 ╰──────────────────────────────────────────────────────────────────────────────────╯
 ```
 <!--
